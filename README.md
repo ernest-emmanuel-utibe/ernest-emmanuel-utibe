@@ -19,7 +19,9 @@
 
   
 - 💻 I'm delving into the fascinating realm of Cybersecurity, exploring the intricate mechanisms of safeguarding digital systems and information. With an ever-growing digital landscape, the quest to understand and fortify against potential threats has become a priority. Currently, I'm immersing myself in the dynamic field of Cybersecurity, learning about encryption, network security, ethical hacking, and best practices to protect data integrity and privacy. Every step I take in this journey adds to my understanding of securing digital environments, empowering me to contribute towards building safer and more resilient technological ecosystems. The pursuit of Cybersecurity is not just a personal endeavor, but a commitment to enhancing the reliability and safety of our digital world. 🛡️🌐
-- I am proficient using Java, Postman and MySQL database
+
+- 🚀 I possess proficiency in Java programming, navigating the intricacies of Postman for API development, and harnessing the capabilities of MySQL databases. With a strong command over Java, I dive into robust application development, ensuring seamless functionality and efficiency. Additionally, my adeptness with Postman facilitates the creation and testing of APIs, while my familiarity with MySQL empowers me to manage and optimize database systems. The synergy among these tools allows me to contribute to comprehensive solutions and tackle diverse challenges in the realm of software development. 📊💡
+
 
 
  [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql)](https://skillicons.dev)
@@ -43,7 +45,7 @@
 
 
  
- - ![Profile Views](https://komarev.com/ghpvc/?username=ernest-emmanuel-utibe&color=brightgreen&style=flat-square)]
+ - ![Profile Views](https://komarev.com/ghpvc/?username=ernest-emmanuel-utibe&color=brightgreen&style=flat-square)
 
 
 
