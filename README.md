@@ -1,10 +1,6 @@
-# Hi there 👋 I am Ernest Emmanuel Utibe 🧍
+ Hi there 👋 I am Ernest Emmanuel Utibe 🧍
+![me](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-
-
-
-![me](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 
 
 
@@ -67,6 +63,6 @@
 
 
 # Thanks for checking in today. Do have a nice day. 👋
-![me](https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966)
+![me](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
  
 
