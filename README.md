@@ -1,26 +1,50 @@
- Hi there 👋 I am Ernest Emmanuel Utibe 🧍
-![me](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+ # Hello! 👋 Who am I? 🧍
+
+
+ - 🔭 Backend engineer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
+ - 🌱 Proficient in back-end technologies like Java, Python
+ - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, Terraform, Kubernetes, and Azure also GCP
+ - 😍 Developed some Apps and integrated with web and third party APIs.
+ - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
+
+
+# Main Skills
+
+ [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql,python,postgres)](https://skillicons.dev)
+
+# 💻 My favorite tools and technologies
+
+[![icon](https://skillicons.dev/icons?i=React)](https://skillicons.dev)
 
 
 
-
-
-
-
-
-- In the world of code, each line acts as a secret code revealing a canvas for boundless creativity and transformation. Every set of instructions forms a puzzle piece, crafting a captivating, bigger picture. Behind every code line, there's a world of abstract ideas merging science and art. As an experienced coder where I still learn from more experienced engineers and non experienced enginners, I view the world from unique angles, seeing patterns in the smallest moments and vast occurrences. I observe harmony and connections between elements, likening the world to a complex program where collaboration and interaction spark new abilities and values. With every line of code I write, I contribute to shaping transformations, envisioning a brighter future for everyone through the art of coding.
-
-
-- 🌟 Currently, I'm dedicated to honing my backend expertise, delving deeper into the intricate realm of Java backend development. As a Java backend engineer, I'm actively refining my skills and knowledge to craft robust and efficient solutions. Moreover, I'm eager and open to collaborative opportunities in projects related to both Java and Python. I'm enthusiastic about joining hands in initiatives that leverage the strengths of these languages, contributing and learning in environments that harness the power of Java and Python for innovative projects. Whether it's enhancing existing systems or diving into new, exciting challenges, I'm keen on engaging with like-minded individuals to create meaningful solutions. 🚀💻
-
-  
-- 💻 I'm delving into the fascinating realm of Cybersecurity, exploring the intricate mechanisms of safeguarding digital systems and information. With an ever-growing digital landscape, the quest to understand and fortify against potential threats has become a priority. Currently, I'm immersing myself in the dynamic field of Cybersecurity, learning about encryption, network security, ethical hacking, and best practices to protect data integrity and privacy. Every step I take in this journey adds to my understanding of securing digital environments, empowering me to contribute towards building safer and more resilient technological ecosystems. The pursuit of Cybersecurity is not just a personal endeavor, but a commitment to enhancing the reliability and safety of our digital world. 🛡️🌐
-
-- 🚀 I possess proficiency in Java programming, navigating the intricacies of Postman for API development, and harnessing the capabilities of MySQL databases. With a strong command over Java, I dive into robust application development, ensuring seamless functionality and efficiency. Additionally, my adeptness with Postman facilitates the creation and testing of APIs, while my familiarity with MySQL empowers me to manage and optimize database systems. The synergy among these tools allows me to contribute to comprehensive solutions and tackle diverse challenges in the realm of software development. 📊💡
-
-
-
- [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql)](https://skillicons.dev)
+Python	icon
+JavaScript	icon
+C++	icon
+Webpack	icon
+MySQL	icon
+TypeScript	icon
+AWS	icon
+C#
+icon
+Django	icon
+Github	Git
+Git	Laravel
+Laravel	HTML5
+HTML5	css
+CSS	bootstrap
+Bootstrap	tailwind
+Tailwind	jQuery
+jQuery
+MongoDB
+MongoDB	Nodejs
+Nodejs	PHP
+PHP	VsCode
+VsCode	WordPress
+WordPress	Vue
+Vue	Sass
+Sass	MySQL
+GraphQL	PostgreSQL
  
 
 
@@ -43,6 +67,8 @@
 
  
  - ![Profile Views](https://komarev.com/ghpvc/?username=ernest-emmanuel-utibe&color=brightgreen&style=flat-square)
+
+ - ![me](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
