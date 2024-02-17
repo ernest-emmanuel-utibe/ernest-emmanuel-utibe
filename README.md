@@ -14,38 +14,7 @@
 
 # 💻 My favorite tools and technologies
 
-[![icon](https://skillicons.dev/icons?i=React)](https://skillicons.dev)
-
-
-
-Python	icon
-JavaScript	icon
-C++	icon
-Webpack	icon
-MySQL	icon
-TypeScript	icon
-AWS	icon
-C#
-icon
-Django	icon
-Github	Git
-Git	Laravel
-Laravel	HTML5
-HTML5	css
-CSS	bootstrap
-Bootstrap	tailwind
-Tailwind	jQuery
-jQuery
-MongoDB
-MongoDB	Nodejs
-Nodejs	PHP
-PHP	VsCode
-VsCode	WordPress
-WordPress	Vue
-Vue	Sass
-Sass	MySQL
-GraphQL	PostgreSQL
- 
+[![icon](https://skillicons.dev/icons?i=react,mysql,aws,git,github,python,html,css,bootstrap,postgreSQL)](https://skillicons.dev)
 
 
 
