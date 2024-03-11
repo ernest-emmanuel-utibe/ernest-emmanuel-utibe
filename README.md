@@ -1,4 +1,4 @@
- # Hello! 👋 Who am I? 🧍
+ ## Hello! 👋 Who am I? 🧍
 
 
  - 🔭 Backend engineer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
@@ -8,12 +8,12 @@
  - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
 
 
-# Main Skills
+## Skills
 
  [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql,python,postgres)](https://skillicons.dev)
  
 
-# 💻 Tools and Technologies
+## 💻 Tools and Technologies
 
 [![icon](https://skillicons.dev/icons?i=react,mysql,aws,git,github,python,html,css,bootstrap,postgres,terraform,kubernetes,ansible)](https://skillicons.dev)
 
