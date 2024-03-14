@@ -1,12 +1,10 @@
  ## Hello! 👋 Who am I? 🧍
 
 
- - 🔭 Backend engineer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
- - 🌱 Proficient in back-end technologies like Java, Python
- - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, Terraform, Kubernetes, and Azure also GCP
- - 😍 Developed some Apps and integrated with web and third party APIs.
- - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
+## Glad to see you here!
 
+I’m a Cloud DevOps Engineer and Software Engineer with Java and Springboot stack. Being a DevOps and backend developer allows me to not only develop cutting-edge backend applications but also to deploy them and manage the servers in the cloud and on-site. 
+I love designing light yet powerful systems, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization, deployments, and management. I want to learn promising technology concepts like ML, AI, Blockchain technologies, etc.
 
 ## Skills
 
