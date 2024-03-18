@@ -2,7 +2,7 @@
 
 ## Glad to have you here! 🧍
 
-I’m a Cloud DevOps Engineer and Software Engineer with Java and Springboot stack. Being a DevOps and backend developer allows me to not only develop cutting-edge backend applications but also to deploy them and manage the servers in the cloud and on-site. 
+I’m a Cloud DevOps Engineer and Software Engineer with Java and Springboot. Being a DevOps and backend developer allows me to not only develop cutting-edge backend applications but also to deploy them and manage the servers in the cloud and on-site. 
 
 I love designing light yet powerful systems, distributed yet synchronized and beautiful yet effective. 
 
@@ -10,7 +10,7 @@ I also frequently blog about the world behind the screen which involves system d
 
 ## Skills
 
- [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql,python,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql,python,postgres,python)](https://skillicons.dev)
  
 
 ## 💻 Tools and Technologies
