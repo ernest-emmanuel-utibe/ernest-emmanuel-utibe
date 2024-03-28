@@ -15,7 +15,7 @@ I also frequently blog about the world behind the screen which involves system d
 
 ## 💻 Tools and Technologies
 
-[![icon](https://skillicons.dev/icons?i=react,mysql,aws,git,github,python,html,css,bootstrap,postgres,terraform,kubernetes,ansible)](https://skillicons.dev)
+[![icon](https://skillicons.dev/icons?i=react,mysql,aws,git,github,python,html,css,bootstrap,postgres,ansible)](https://skillicons.dev)
 
 
 
