@@ -10,12 +10,12 @@ I also frequently blog about the world behind the screen which involves system d
 
 ## Skills
 
- [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql,python,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,postman,mysql,python,postgres,typescript)](https://skillicons.dev)
  
 
 ## 💻 Tools and Technologies
 
-[![icon](https://skillicons.dev/icons?i=react,mysql,aws,git,github,python,html,css,bootstrap,postgres,ansible)](https://skillicons.dev)
+[![icon](https://skillicons.dev/icons?i=react,mysql,aws,git,github,python,html,css,bootstrap,nextjs,postgres,ansible,aws)](https://skillicons.dev)
 
 
 
