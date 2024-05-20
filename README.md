@@ -2,7 +2,7 @@
 
 ## Glad to have you here! 🧍
 
-I’m a Cloud DevOps Engineer and Software Engineer with Java and Springboot. Being a DevOps and backend developer allows me to not only develop cutting-edge backend applications but also to deploy them and manage the servers in the cloud and on-site. 
+I’m a Cloud DevOps Engineer and Software Engineer with Java experience. Being a DevOps and backend engineer allows me to not only develop cutting-edge backend applications but also to deploy them and manage the servers in the cloud and on-site. 
 
 I love designing light yet powerful systems, distributed yet synchronized and beautiful yet effective.
 
