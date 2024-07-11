@@ -2,11 +2,11 @@
 
 ## Glad to have you here! 🧍
 
-I’m a Cloud DevOps Engineer and Software Engineer with Java experience. Being a DevOps and backend engineer allows me to not only develop cutting-edge backend applications but also to deploy them and manage the servers in the cloud and on-site. 
+I'm a Cloud and Software Engineer passionate about designing, deploying, and managing applications both in the cloud.
 
-I love designing light yet powerful systems, distributed yet synchronized and beautiful yet effective.
+In my role as a Cloud Engineer, I specialize in creating efficient, powerful, and distributed systems that are synchronized and visually appealing. I handle everything from system design to database management, security, server optimization, and deployment.
 
-I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization, deployments, and management. I want to learn promising technology concepts like ML, AI, Blockchain technologies, etc.
+I regularly share my insights and experiences on my blog, covering topics such as system design, databases, security, servers, optimization, deployments, and management. My goal is to stay at the forefront of technology by continuously learning about promising concepts like machine learning, artificial intelligence, and blockchain technologies.
 
 ## Skills
 
