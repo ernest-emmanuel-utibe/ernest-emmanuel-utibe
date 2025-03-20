@@ -2,7 +2,7 @@
 
 ## Glad to have you here! 🧍
 
-I'm a Cloud and Software Engineer passionate about designing, deploying, and managing applications both in the cloud.
+I'm a Cloud Engineer and Software Engineer passionate about designing, deploying, and managing applications both in the cloud.
 
 In my role as a Cloud Engineer, I specialize in creating efficient, powerful, and distributed systems that are synchronized and visually appealing. I handle everything from system design to database management, security, server optimization, and deployment.
 
