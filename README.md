@@ -18,7 +18,7 @@ I regularly share my insights and experiences on my blog, covering topics such a
 [![icon](https://skillicons.dev/icons?i=react,mysql,git,github,python,html,css,bootstrap,postgres,vercel,ansible,aws,kubernetes,jenkins,gcp)](https://skillicons.dev)
  
 - 📫 How to reach me: 
-  - LinkedIn: https://www.linkedin.com/in/emmanuel-ernest/
+  - LinkedIn: https://www.linkedin.com/in/emmanuel-ernest-utibe
 
 
 ⚡ Fun fact: I have fun through reading books(History books, Artificial intelligence books, etc.) writing, also playing chess.
