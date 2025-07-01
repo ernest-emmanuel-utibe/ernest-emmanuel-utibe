@@ -16,11 +16,6 @@ I regularly share my insights and experiences on my blog, covering topics such a
 ## 💻 Tools and Technologies
 
 [![icon](https://skillicons.dev/icons?i=react,mysql,git,github,python,html,css,bootstrap,postgres,vercel,ansible,aws,kubernetes,jenkins,gcp)](https://skillicons.dev)
-
-
-
-- 📫 How to reach my works: 
-  - Github: https://github.com/ernest-emmanuel-utibe
  
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/emmanuel-ernest/
