@@ -9,4 +9,4 @@
   - LinkedIn: https://www.linkedin.com/in/emmanuel-ernest-utibe
 
 
-⚡ Fun fact: I have fun through reading books(History books, Artificial intelligence books, etc.) writing, also playing chess.
+⚡ Fun fact: I have fun through reading books (History books, Artificial intelligence books, et al) writing, and playing chess.
