@@ -3,7 +3,7 @@
 
 ## 💻 Tools and Technologies
 
-[![icon](https://skillicons.dev/icons?i=react,mysql,git,github,python,html,css,bootstrap,postgres,vercel,ansible,aws,kubernetes,jenkins,flask,argocd,helm)](https://skillicons.dev)
+[![icon](https://skillicons.dev/icons?i=mysql,git,gitlab,github,python,postgres,terraform,docker,prometheus,grafana,ansible,aws,kubernetes,jenkins,flask,argocd,helm)](https://skillicons.dev)
  
 - 📫 Reach me on: 
   - LinkedIn: https://www.linkedin.com/in/emmanuel-ernest-utibe
